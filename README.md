@@ -1,3 +1,3 @@
 # dulichcaptreo
 
-![title](https://raw.githubusercontent.com/tahongtrung/dulichcaptreo/master/captreo.png)
+![title](https://i.imgur.com/qzD3O9W.jpg)
