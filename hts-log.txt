@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Apr 2018 20:13:54 at http://go.vinhphucweb.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://go.vinhphucweb.com -O1 "E:\My Web Sites\duliccaptreo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:15:47	Warning: 	Retry after error -4 (No data (connection closed)) at link go.vinhphucweb.com/wp-content/uploads/2018/03/phatgiao-org-vn-chiem-nguong-net-dep-10-pho-tuong-6-205x188.jpg (from go.vinhphucweb.com/)
+20:16:05	Error: 	"Not Found" (404) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/fonts/glyphicons-halflings-regular.eot (from go.vinhphucweb.com/wp-content/themes/vpw_theme/css/bootstrap.min.css?ver=4.9.5)
+20:16:05	Error: 	"Not Found" (404) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/fonts/glyphicons-halflings-regular.eot? (from go.vinhphucweb.com/wp-content/themes/vpw_theme/css/bootstrap.min.css?ver=4.9.5)
+20:16:05	Error: 	"Not Found" (404) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/fonts/glyphicons-halflings-regular.woff (from go.vinhphucweb.com/wp-content/themes/vpw_theme/css/bootstrap.min.css?ver=4.9.5)
+20:16:05	Error: 	"Not Found" (404) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/fonts/glyphicons-halflings-regular.ttf (from go.vinhphucweb.com/wp-content/themes/vpw_theme/css/bootstrap.min.css?ver=4.9.5)
+20:16:05	Error: 	"Not Found" (404) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/fonts/glyphicons-halflings-regular.svg (from go.vinhphucweb.com/wp-content/themes/vpw_theme/css/bootstrap.min.css?ver=4.9.5)
+20:16:05	Error: 	"Not Found" (404) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/css/owl.video.play.png (from go.vinhphucweb.com/wp-content/themes/vpw_theme/css/owl.carousel.css?ver=4.9.5)
+20:16:06	Warning: 	Retry after error -4 (No data (connection closed)) at link go.vinhphucweb.com/wp-content/themes/vpw_theme/icon/fonts/fontawesome-webfont.woff?v=4.7.0 (from go.vinhphucweb.com/wp-content/themes/vpw_theme/icon/css/font-awesome.min.css?ver=4.9.5)
+20:16:06	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=211
+20:16:06	Warning: 	File has moved from go.vinhphucweb.com/?p=211 to http://go.vinhphucweb.com/gioi-thieu/
+20:16:06	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1247
+20:16:06	Warning: 	File has moved from go.vinhphucweb.com/?p=1247 to http://go.vinhphucweb.com/dich-vu/du-ngoan-cap-treo-3/
+20:16:06	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1246
+20:16:06	Warning: 	File has moved from go.vinhphucweb.com/?p=1246 to http://go.vinhphucweb.com/dich-vu/du-ngoan-cap-treo-2/
+20:16:06	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1242
+20:16:06	Warning: 	File has moved from go.vinhphucweb.com/?p=1242 to http://go.vinhphucweb.com/dich-vu/du-ngoan-cap-treo/
+20:16:08	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1330
+20:16:08	Warning: 	File has moved from go.vinhphucweb.com/?p=1330 to http://go.vinhphucweb.com/mua-online/
+20:16:08	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=9
+20:16:08	Warning: 	File has moved from go.vinhphucweb.com/?p=9 to http://go.vinhphucweb.com/lien-he/
+20:16:08	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1160
+20:16:08	Warning: 	File has moved from go.vinhphucweb.com/?p=1160 to http://go.vinhphucweb.com/bo-tri-noi-that-theo-phong-thuy-3/
+20:16:08	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1159
+20:16:08	Warning: 	File has moved from go.vinhphucweb.com/?p=1159 to http://go.vinhphucweb.com/bo-tri-noi-that-theo-phong-thuy-2/
+20:16:08	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1288
+20:16:08	Warning: 	File has moved from go.vinhphucweb.com/?p=1288 to http://go.vinhphucweb.com/photo/doan-du-khach-thang-1-2/
+20:16:08	Warning: 	Retry after error -4 (No data (connection closed)) at link go.vinhphucweb.com/?p=1279 (from go.vinhphucweb.com/photo/doan-du-khach-thang-1/)
+20:16:08	Warning: 	Retry after error -4 (No data (connection closed)) at link go.vinhphucweb.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgo.vinhphucweb.com%2Fphoto%2Fdoan-du-khach-thang-1%2F (from go.vinhphucweb.com/photo/doan-du-khach-thang-1/)
+20:16:09	Error: 	"Not Found" (404) at link go.vinhphucweb.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/vi_VN/all.js)
+20:16:09	Error: 	"Not Found" (404) at link go.vinhphucweb.com/^([^:/? (from connect.facebook.net/vi_VN/all.js)
+20:16:09	Error: 	"Not Found" (404) at link go.vinhphucweb.com/restserver.php (from connect.facebook.net/vi_VN/all.js)
+20:16:09	Error: 	"Not Found" (404) at link go.vinhphucweb.com/dialog/ (from connect.facebook.net/vi_VN/all.js)
+20:16:09	Error: 	"Not Found" (404) at link go.vinhphucweb.com/%s/profile.php?id=%s (from connect.facebook.net/vi_VN/all.js)
+20:16:10	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1157
+20:16:10	Warning: 	File has moved from go.vinhphucweb.com/?p=1157 to http://go.vinhphucweb.com/bo-tri-noi-that-theo-phong-thuy/
+20:16:10	Warning: 	Moved Permanently for go.vinhphucweb.com/video_cat/du-lich-thang-11/page/1/
+20:16:10	Warning: 	File has moved from go.vinhphucweb.com/video_cat/du-lich-thang-11/page/1/ to http://go.vinhphucweb.com/video_cat/du-lich-thang-11/
+20:16:10	Warning: 	Moved Permanently for go.vinhphucweb.com/?p=1279
+20:16:10	Warning: 	File has moved from go.vinhphucweb.com/?p=1279 to http://go.vinhphucweb.com/photo/doan-du-khach-thang-1/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 16 seconds : 145 links scanned, 117 files written (4286810 bytes overall) [3380021 bytes received at 24853 bytes/sec], 1619108 bytes transferred using HTTP compression in 49 files, ratio 31%, 2.5 requests per connection
+(11 errors, 28 warnings, 0 messages)
